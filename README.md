@@ -15,18 +15,18 @@
 </thead>
 <tbody>
 <tr>
-<td>JavaScript</td>
-<td>TypeScript</td>
+<td>Laravel</td>
+<td>Spring Boot</td>
 <td>NodeJS</td>
 <td>Expressjs</td>
 <td>Vuejs</td>
 </tr>
 <tr>
+<td>JavaScript</td>
+<td>Nuxtjs</td>
+<td>TypeScript</td>
 <td>Reactjs</td>
 <td>Jquery</td>
-<td>Wordpress</td>
-<td>Nuxtjs</td>
-<td>Laravel</td>
 </tr>
 <tr>
 <td>Vuetify</td>
