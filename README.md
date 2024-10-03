@@ -16,10 +16,10 @@
 <tbody>
 <tr>
 <td>Laravel</td>
-<td>Spring Boot</td>
 <td>NodeJS</td>
 <td>Expressjs</td>
 <td>Vuejs</td>
+<td>Spring Boot</td>
 </tr>
 <tr>
 <td>JavaScript</td>
